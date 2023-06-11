@@ -1,0 +1,66 @@
+
+body{
+    background-color: lightseagreen;
+    text-align: justify;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 60px 0;
+    width: 90%;
+    max-width:1000px;
+    margin: auto;
+}
+header{
+    background-color:darkcyan;
+    padding: 2rem 2rem;
+    border-radius: 4rem;
+    width: 100%;
+}
+.forma-objetivos{
+    margin: 0 auto;
+}
+h1{  
+    color: rgb(235, 241, 238);
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 3px 5px 5px aqua;
+}
+h3{
+    font-size: 20px;
+    font-family:'Dancing Script',sans-serif;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    color: ghostwhite;
+}
+.listado{
+    color:rgb(238, 241, 234);
+}
+#medida-imagen{
+    width: 500px;
+    border-radius: 2cm 2cm;
+    border-color: yellowgreen;
+    margin-left: 15rem;
+
+}
+h5{
+    font-size: 20px;
+    text-align: justify;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    background-color: lightseagreen;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 60px 0;
+    width: 90%;
+    max-width:1000px;
+    margin: auto;
+    background-color:darkcyan;
+    padding: 2rem 2rem;
+    border-radius: 1rem;
+    width: 100%;
+
+}
